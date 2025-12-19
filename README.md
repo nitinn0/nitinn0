@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 Skills & Technologies
-- **Languages:** JavaScript, HTML, CSS  
-- **Frontend:** React.js, React-Native, Tailwind CSS  
+- **Frontend:** React.js, Next.js, React-Native, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, Supabase  
 - **Tools:** Git, GitHub, Postman  
 
